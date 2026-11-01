@@ -4,7 +4,7 @@ Full-stack software developer with 3+ years of experience designing and building
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=61594406932761) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__ravi_pandey__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ravi--pandey) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Ravi-Pandey-520) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/raviPandey9973) <a href="https://ravipandey9973.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Logo">
+  <img src="https://img.shields.io/badge/Visit%20Porfolio-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Logo">
 </a> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravipandey9973@gmail.com) 
 
 # 💻 Tech Stack:
